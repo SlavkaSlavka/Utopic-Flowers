@@ -8,8 +8,10 @@ body {
     color: #666666;
 
     background-color: #ffffffffffff;
-    background-position: top;
-
+    background-position: top center;
+}
+a {
+    text-decoration: none;
 }
 .main-hiden {
     background-color: #ebebea;
