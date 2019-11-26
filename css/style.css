@@ -8,7 +8,9 @@ body {
     color: #666666;
 
     background-color: #ffffffffffff;
+    background-image: url("/img/worktable.jpg");
     background-position: top center;
+    background-repeat: no-repeat;
 }
 a {
     text-decoration: none;
