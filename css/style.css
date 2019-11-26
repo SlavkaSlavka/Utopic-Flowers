@@ -12,17 +12,3 @@ body {
     background-position: top center;
     background-repeat: no-repeat;
 }
-a {
-    text-decoration: none;
-}
-.search{
-    background-color: #ebebea;
-}
-.main-hiden {
-    font-size: 22px;
-    background-color: #ebebea;
-    text-align: center;
-}
-  .main-gallery {
-    text-align: center;
-}
