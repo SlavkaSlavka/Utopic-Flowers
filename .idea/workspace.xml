@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff30dc91-060a-48b0-970c-b140deb0e8d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -20,7 +21,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TZhtokoa8RgzoVSkYq8oA68bMD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -54,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573673741655</updated>
       <workItem from="1573673742944" duration="2173000" />
-      <workItem from="1574362345614" duration="7887000" />
+      <workItem from="1574362345614" duration="9173000" />
     </task>
     <task id="LOCAL-00001" summary="ypa">
       <created>1573673810842</created>
@@ -154,7 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1574794602597</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="normalize">
+      <created>1574795901315</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1574795901316</updated>
+    </task>
+    <task id="LOCAL-00016" summary="normalize.">
+      <created>1574796037105</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1574796037105</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +193,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="ypa" />
     <MESSAGE value="..." />
     <MESSAGE value="aria-lavle?" />
@@ -183,6 +203,8 @@
     <MESSAGE value="вроде всё" />
     <MESSAGE value="правки choise AND gallery" />
     <MESSAGE value="точно все" />
-    <option name="LAST_COMMIT_MESSAGE" value="точно все" />
+    <MESSAGE value="normalize" />
+    <MESSAGE value="normalize." />
+    <option name="LAST_COMMIT_MESSAGE" value="normalize." />
   </component>
 </project>
