@@ -13,6 +13,9 @@ body {
 a {
     text-decoration: none;
 }
+.search{
+    background-color: #ebebea;
+}
 .main-hiden {
     background-color: #ebebea;
 }
