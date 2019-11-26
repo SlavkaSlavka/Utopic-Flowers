@@ -7,8 +7,8 @@ body {
     font-weight: normal;
     color: #666666;
 
-    background-color: #666666;
-    background-image: url("/img/worktable.jpg");
+    background-color: #ffffff;
+    background-image: url("../img/worktable.jpg");
     background-position: top center;
     background-repeat: no-repeat;
 }
