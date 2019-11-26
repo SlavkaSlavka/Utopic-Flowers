@@ -10,7 +10,7 @@ body {
     background-color: #ffffff;
     background-image: url("../img/worktable.jpg");
     background-position: top center;
-    background-size: 100% ;
+    background-size: cover;
 }
 a {
     text-decoration: none;
