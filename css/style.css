@@ -13,6 +13,9 @@ body {
 a {
     text-decoration: none;
 }
+.line {
+    background-color: deeppink;
+}
 .logo {
     list-style: none;
     font-size: 26px;
