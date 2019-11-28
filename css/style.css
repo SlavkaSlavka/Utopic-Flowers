@@ -73,3 +73,6 @@ figcaption {
     line-height: 24px;
     color: #894aa3;
 }
+article {
+    text-align: center;
+}
