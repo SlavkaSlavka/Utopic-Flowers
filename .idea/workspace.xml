@@ -57,14 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573673741655</updated>
       <workItem from="1573673742944" duration="2173000" />
-      <workItem from="1574362345614" duration="16425000" />
-    </task>
-    <task id="LOCAL-00013" summary="правки choise AND gallery">
-      <created>1574793524250</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1574793524250</updated>
+      <workItem from="1574362345614" duration="16721000" />
     </task>
     <task id="LOCAL-00014" summary="точно все">
       <created>1574794602597</created>
@@ -402,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574963896975</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="logo all">
+      <created>1574964199164</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1574964199165</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
