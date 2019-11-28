@@ -84,6 +84,7 @@ h4 {
 h5 {
     font-size: 13px;
     line-height: 15.6px;
+    text-transform: uppercase;
 }
 .contacts {
     text-align: left;
@@ -106,6 +107,7 @@ h5 {
     line-height: 14.4px;
 }
 h6 {
-    margin: 0;
-    padding: 0;
+    font-size: 13px;
+    line-height: 15.6px;
+    font-weight: bold;
 }
