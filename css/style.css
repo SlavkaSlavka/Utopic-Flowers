@@ -17,7 +17,12 @@ a {
         font-size: 12px;
         line-height: 12px;
     }
- .si
+    .site-navigation {
+        list-style: none;
+    }
+ .site-navigation a {
+color: #666666;
+ }
 
 
 

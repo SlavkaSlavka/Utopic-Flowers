@@ -59,14 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573673741655</updated>
       <workItem from="1573673742944" duration="2173000" />
-      <workItem from="1574362345614" duration="14472000" />
-    </task>
-    <task id="LOCAL-00002" summary="...">
-      <created>1573674197484</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1573674197484</updated>
+      <workItem from="1574362345614" duration="15427000" />
     </task>
     <task id="LOCAL-00003" summary="aria-lavle?">
       <created>1573674902283</created>
@@ -404,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574801513352</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="style">
+      <created>1574962089899</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1574962089899</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
