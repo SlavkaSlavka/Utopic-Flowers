@@ -13,12 +13,12 @@ body {
 a {
     text-decoration: none;
 }
-.logo{
+.logo {
     list-style: none;
     font-size: 26px;
     line-height: 26px;
 }
-.logo a {
+a .logo  {
     color: #666666;
 }
     .main-navigation {
