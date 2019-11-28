@@ -61,4 +61,5 @@ figcaption {
 .help-fig{
     font-size: 13px;
     line-height: 23.4px;
+    text-align: left;
 }
