@@ -57,14 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573673741655</updated>
       <workItem from="1573673742944" duration="2173000" />
-      <workItem from="1574362345614" duration="16183000" />
-    </task>
-    <task id="LOCAL-00012" summary="правки choise AND gallery">
-      <created>1574792857416</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1574792857417</updated>
+      <workItem from="1574362345614" duration="16425000" />
     </task>
     <task id="LOCAL-00013" summary="правки choise AND gallery">
       <created>1574793524250</created>
@@ -402,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574963703297</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="logo all">
+      <created>1574963896975</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1574963896975</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -436,6 +436,7 @@
     <MESSAGE value="normalize." />
     <MESSAGE value="style" />
     <MESSAGE value="logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="logo" />
+    <MESSAGE value="logo all" />
+    <option name="LAST_COMMIT_MESSAGE" value="logo all" />
   </component>
 </project>

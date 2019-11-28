@@ -27,6 +27,7 @@ a {
     .main-navigation {
         font-size: 12px;
         line-height: 12px;
+        text-transform: uppercase;
     }
     .site-navigation {
         list-style: none;
