@@ -110,4 +110,5 @@ h6 {
     font-size: 13px;
     line-height: 15.6px;
     font-weight: bold;
+    text-transform: capitalize;
 }
