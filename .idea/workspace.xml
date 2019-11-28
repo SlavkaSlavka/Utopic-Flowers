@@ -57,28 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573673741655</updated>
       <workItem from="1573673742944" duration="2173000" />
-      <workItem from="1574362345614" duration="18404000" />
-    </task>
-    <task id="LOCAL-00023" summary="style">
-      <created>1574798637785</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1574798637785</updated>
-    </task>
-    <task id="LOCAL-00024" summary="style">
-      <created>1574798999689</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1574798999689</updated>
-    </task>
-    <task id="LOCAL-00025" summary="style">
-      <created>1574799065730</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1574799065730</updated>
+      <workItem from="1574362345614" duration="18684000" />
     </task>
     <task id="LOCAL-00026" summary="style">
       <created>1574799112497</created>
@@ -402,7 +381,28 @@
       <option name="project" value="LOCAL" />
       <updated>1574966178359</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="style">
+      <created>1574966308656</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1574966308656</updated>
+    </task>
+    <task id="LOCAL-00073" summary="style">
+      <created>1574966389036</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1574966389036</updated>
+    </task>
+    <task id="LOCAL-00074" summary="change .choise">
+      <created>1574966472320</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1574966472320</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -437,6 +437,7 @@
     <MESSAGE value="logo" />
     <MESSAGE value="logo all" />
     <MESSAGE value="style" />
-    <option name="LAST_COMMIT_MESSAGE" value="style" />
+    <MESSAGE value="change .choise" />
+    <option name="LAST_COMMIT_MESSAGE" value="change .choise" />
   </component>
 </project>

@@ -67,5 +67,9 @@ figcaption {
 
 .choise section {
     text-align: left;
-
+}
+.choise a{
+    font-size: 20px;
+    line-height: 24px;
+    color: #894aa3;
 }
