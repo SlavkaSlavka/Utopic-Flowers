@@ -13,6 +13,11 @@ body {
 a {
     text-decoration: none;
 }
+.logo{
+    list-style: none;
+    font-size: 26px;
+    line-height: 26px;
+}
     .main-navigation {
         font-size: 12px;
         line-height: 12px;
