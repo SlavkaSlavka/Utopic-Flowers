@@ -101,3 +101,7 @@ h5 {
 .mail {
     color: #666666;
 }
+.links li {
+    font-size: 12px;
+    line-height: 14.4px;
+}
