@@ -57,6 +57,7 @@ color: #666666;
 figcaption {
     font-size: 20px;
     line-height: 24px;
+    text-align: left;
 }
 .help-fig{
     font-size: 13px;
