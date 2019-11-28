@@ -54,3 +54,7 @@ color: #666666;
 .main-gallery {
     text-align: center;
 }
+figcaption {
+    font-size: 20px;
+    line-height: 24px;
+}
