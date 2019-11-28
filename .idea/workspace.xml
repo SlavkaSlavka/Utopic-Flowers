@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff30dc91-060a-48b0-970c-b140deb0e8d2" name="Default Changelist" comment="" />
+    <list default="true" id="ff30dc91-060a-48b0-970c-b140deb0e8d2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,28 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573673741655</updated>
       <workItem from="1573673742944" duration="2173000" />
-      <workItem from="1574362345614" duration="17242000" />
-    </task>
-    <task id="LOCAL-00018" summary="style">
-      <created>1574797204352</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1574797204352</updated>
-    </task>
-    <task id="LOCAL-00019" summary="style">
-      <created>1574797276221</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1574797276221</updated>
-    </task>
-    <task id="LOCAL-00020" summary="style">
-      <created>1574798050281</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1574798050281</updated>
+      <workItem from="1574362345614" duration="17529000" />
     </task>
     <task id="LOCAL-00021" summary="style">
       <created>1574798163912</created>
@@ -400,7 +381,28 @@
       <option name="project" value="LOCAL" />
       <updated>1574964836376</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="logo all">
+      <created>1574964954915</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1574964954916</updated>
+    </task>
+    <task id="LOCAL-00068" summary="logo all">
+      <created>1574965006439</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1574965006439</updated>
+    </task>
+    <task id="LOCAL-00069" summary="style">
+      <created>1574965042891</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1574965042891</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,9 +434,9 @@
     <MESSAGE value="точно все" />
     <MESSAGE value="normalize" />
     <MESSAGE value="normalize." />
-    <MESSAGE value="style" />
     <MESSAGE value="logo" />
     <MESSAGE value="logo all" />
-    <option name="LAST_COMMIT_MESSAGE" value="logo all" />
+    <MESSAGE value="style" />
+    <option name="LAST_COMMIT_MESSAGE" value="style" />
   </component>
 </project>
