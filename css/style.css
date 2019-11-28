@@ -18,6 +18,9 @@ a {
     font-size: 26px;
     line-height: 26px;
 }
+.logo a {
+    color: #666666;
+}
     .main-navigation {
         font-size: 12px;
         line-height: 12px;
