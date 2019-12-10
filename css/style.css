@@ -123,9 +123,12 @@ h6 {
 .main-navigation{
     display: flex;
     margin-bottom: 55px;
-    justify-content: center;
+    justify-content: flex-start;
 }
 .site-navigation {
     margin: 0;
     padding: 0;
+}
+.logo {
+
 }
