@@ -123,6 +123,7 @@ h6 {
 .main-navigation{
     display: flex;
     margin-bottom: 55px;
+    align-items: center;
 }
 .site-navigation {
     margin: 0;
