@@ -121,6 +121,10 @@ h6 {
     background-color: #ebebea;
 }
 .main-navigation{
+    display: flex;
     margin-bottom: 55px;
-
+}
+.site-navigation {
+    margin: 0;
+    padding: 0;
 }
