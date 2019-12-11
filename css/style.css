@@ -125,6 +125,7 @@ h6 {
     flex-direction: column;
 }
 .logo1{
+    text-transform: uppercase;
     order: 1;
     line-height: 26px;
     font-size: 26px;
