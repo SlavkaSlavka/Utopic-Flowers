@@ -136,11 +136,9 @@ h6 {
     order: 2;
     display: flex;
     width: 685px;
-    margin-left: 270px;
     padding: 0;
     margin-top: 0;
-
-    justify-content: space-between;
+    justify-content: flex-end;
     align-items: flex-end;
 
 }
