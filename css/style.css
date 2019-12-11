@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    padding: 10px;
+    padding: 0;
     font-family: Georgia , sans-serif;
     font-size: 13px;
     line-height: 20.8px;
@@ -145,6 +145,7 @@ h6 {
 .maain-search{
     align-self: flex-end;
     padding-right: 30px;
+    padding-left: 50px;
     order: 0;
 }
 .visually-hiden {
