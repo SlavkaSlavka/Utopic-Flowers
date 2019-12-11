@@ -130,7 +130,7 @@ h6 {
     width: 270px;
     min-width: 270px;
     margin: 0;
-    padding: 0;
+    padding-left: 50px;
 }
 .site-navigation {
     order: 2;
@@ -145,7 +145,6 @@ h6 {
 .maain-search{
     align-self: flex-end;
     padding-right: 30px;
-    padding-left: 50px;
     order: 0;
 }
 .visually-hiden {
