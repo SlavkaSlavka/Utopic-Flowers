@@ -1,4 +1,6 @@
 body {
+    border-right: solid 15px gray;
+    border-left: solid 15px gray;
     margin: 0;
     padding: 0;
     font-family: Georgia , sans-serif;
