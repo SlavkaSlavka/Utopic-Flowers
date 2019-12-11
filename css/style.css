@@ -122,6 +122,10 @@ h6 {
 .main-navigation{
     display: inline-block;
     margin-bottom: 55px;
+    line-height: 26px;
+    font-size: 26px;
+    width: 270px;
+    min-width: 270px;
 }
 .site-navigation {
     align-items: row;
@@ -131,9 +135,8 @@ h6 {
 .visually-hiden {
     display: none;
 }
-.logo1 {
-    line-height: 26px;
-    font-size: 26px;
-    width: 270px ;
-min-width: 270px;
+
+
+
+
 }
