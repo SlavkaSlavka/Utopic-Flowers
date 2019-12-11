@@ -141,6 +141,9 @@ h6 {
     align-items: flex-end;
 
 }
+.maain-search{
+    order: 1;
+}
 .visually-hiden {
     display: none;
 }
