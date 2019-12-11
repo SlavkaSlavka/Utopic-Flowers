@@ -151,6 +151,9 @@ h6 {
 .visually-hiden {
     display: none;
 }
+.help-logo {
+    padding-top: 20px;
+}
 
 
 
