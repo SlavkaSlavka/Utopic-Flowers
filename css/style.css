@@ -139,5 +139,5 @@ h6 {
 min-width: 270px;
 }
 .wrapper {
-    display: inline;
+    display: flex;
 }
