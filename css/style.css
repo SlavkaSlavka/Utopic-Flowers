@@ -128,6 +128,8 @@ h6 {
     min-width: 270px;
 }
 .site-navigation {
+    display: flex;
+    width: 675px;
     align-items: row;
     margin: 0;
     padding: 0;
