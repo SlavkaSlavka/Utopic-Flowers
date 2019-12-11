@@ -122,7 +122,6 @@ h6 {
 .main-navigation{
     display: flex;
     flex-direction: column;
-width: 100%;
 }
 .logo1{
     line-height: 26px;
