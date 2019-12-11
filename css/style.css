@@ -124,6 +124,7 @@ h6 {
     flex-direction: column;
 }
 .logo1{
+    order: 2;
     line-height: 26px;
     font-size: 26px;
     width: 270px;
