@@ -126,6 +126,7 @@ h6 {
     align-items:flex-start;
 }
 .site-navigation {
+    display: inline;
     margin: 0;
     padding: 0;
 }
