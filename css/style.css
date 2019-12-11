@@ -143,6 +143,7 @@ h6 {
 
 }
 .maain-search{
+    align-self: flex-end;
     order: 0;
 }
 .visually-hiden {
