@@ -124,14 +124,12 @@ h6 {
     flex-direction: column;
 }
 .logo1{
-    order: 2;
     line-height: 26px;
     font-size: 26px;
     width: 270px;
     min-width: 270px;
 }
 .site-navigation {
-    order: 3;
     display: flex;
     width: 685px;
     margin-left: 270px;
@@ -142,7 +140,6 @@ h6 {
 
 }
 .maain-search{
-    order: 1;
 }
 .visually-hiden {
     display: none;
