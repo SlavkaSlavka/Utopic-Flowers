@@ -137,6 +137,7 @@ h6 {
     order: 2;
     display: flex;
     padding-right: 30px;
+    padding-bottom: 20px;
     width: 680px;
     margin-top: 0;
     justify-content: space-between;
