@@ -120,12 +120,11 @@ h6 {
     background-color: #ebebea;
 }
 .main-navigation{
-    display: flex;
+    display: inline-block;
     margin-bottom: 55px;
-    justify-content: flex-start;
-    align-items:flex-start;
 }
 .site-navigation {
+    align-items: row;
     margin: 0;
     padding: 0;
 }
