@@ -129,6 +129,8 @@ h6 {
     font-size: 26px;
     width: 270px;
     min-width: 270px;
+    margin: 0;
+    padding: 0;
 }
 .site-navigation {
     order: 2;
