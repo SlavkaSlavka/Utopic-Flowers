@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff30dc91-060a-48b0-970c-b140deb0e8d2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="ff30dc91-060a-48b0-970c-b140deb0e8d2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,21 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573673741655</updated>
       <workItem from="1573673742944" duration="2173000" />
-      <workItem from="1574362345614" duration="26378000" />
-    </task>
-    <task id="LOCAL-00063" summary="logo all">
-      <created>1574964390158</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1574964390158</updated>
-    </task>
-    <task id="LOCAL-00064" summary="logo all">
-      <created>1574964417818</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1574964417818</updated>
+      <workItem from="1574362345614" duration="26631000" />
     </task>
     <task id="LOCAL-00065" summary="logo all">
       <created>1574964631856</created>
@@ -402,7 +386,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576004279432</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="1 margin">
+      <created>1576088297330</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1576088297330</updated>
+    </task>
+    <task id="LOCAL-00113" summary="flex">
+      <created>1576088449526</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1576088449526</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,6 +438,7 @@
     <MESSAGE value="change .choise" />
     <MESSAGE value="foot" />
     <MESSAGE value="1 margin" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 margin" />
+    <MESSAGE value="flex" />
+    <option name="LAST_COMMIT_MESSAGE" value="flex" />
   </component>
 </project>
