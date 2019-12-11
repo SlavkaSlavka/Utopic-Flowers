@@ -120,6 +120,7 @@ h6 {
     background-color: #ebebea;
 }
 .main-navigation{
+    border-top: solid 5px purple;
     display: flex;
     flex-direction: column;
 }
