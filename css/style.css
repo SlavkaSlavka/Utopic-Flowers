@@ -136,9 +136,10 @@ h6 {
     order: 2;
     display: flex;
     padding: 0;
+    width: 680px;
     margin-top: 0;
     justify-content: space-between;
-    align-items: flex-end;
+    align-self: flex-end;
 
 }
 .maain-search{
