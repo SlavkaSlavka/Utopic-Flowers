@@ -121,7 +121,7 @@ h6 {
 }
 .main-navigation{
     display: flex;
-width: 960px;
+width: 100%;
 }
 .logo1{
     line-height: 26px;
