@@ -132,10 +132,10 @@ h6 {
 .site-navigation {
     display: flex;
     width: 675px;
-    align-items: row;
     margin: 0;
     padding: 0;
-    justify-content: center;
+
+    justify-content: space-around;
     align-items: flex-end;
 }
 .visually-hiden {
