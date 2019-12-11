@@ -140,6 +140,7 @@ h6 {
 
 }
 .maain-search{
+    order: 1;
 }
 .visually-hiden {
     display: none;
