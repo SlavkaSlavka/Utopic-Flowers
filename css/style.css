@@ -167,10 +167,12 @@ h6 {
     margin: 0;
 }
 .gallery {
-    margin: 0;
+    margin-bottom: 0;
     padding: 0;
 }
 .choise {
+    margin-top: 25px;
+    padding: 0;
     display: flex;
     justify-content: space-around;
     align-items: flex-start;
@@ -178,8 +180,17 @@ h6 {
 .choise-product-1,
 .choise-product-2,
 .choise-product-3 {
+    padding: 0;
+    margin: 0;
     width: 280px;
     display: flex;
     align-items: flex-start;
 
+}
+h3 {
+    margin-top: 0;
+    padding: 0;
+}
+.helper {
+    margin-right: 25px;
 }
