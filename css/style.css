@@ -173,9 +173,13 @@ h6 {
 .choise {
     display: flex;
     justify-content: space-around;
+    align-items: flex-start;
 }
 .choise-product-1,
 .choise-product-2,
 .choise-product-3 {
     width: 280px;
+    display: flex;
+    align-items: flex-start;
+
 }
