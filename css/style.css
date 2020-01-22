@@ -167,11 +167,12 @@ h6 {
     margin: 0;
 }
 .gallery {
-    margin-bottom: 0;
+    margin: 0;
+    margin-bottom: 25px;
     padding: 0;
 }
 .choise {
-    margin-top: 25px;
+    margin: 0;
     padding: 0;
     display: flex;
     justify-content: space-around;
@@ -194,6 +195,18 @@ h3 {
 .helper {
     margin-right: 25px;
 }
+.button-gallery {
+    margin: 0;
+    margin-bottom: 25px;
+}
+
 .photo {
     display: flex;
+    min-height: 420px;
+    justify-content: space-around;
+
+}
+section article {
+    width: 300px;
+    align-content: stretch;
 }
