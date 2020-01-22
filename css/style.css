@@ -8,9 +8,7 @@ body {
     line-height: 20.8px;
     font-weight: normal;
     color: #666666;
-
     background-color: white;
-
 }
 a {
     text-decoration: none;
@@ -60,7 +58,7 @@ color: #666666;
 .main-gallery {
     text-align: center;
 }
-figcaption {
+ {
     font-size: 20px;
     line-height: 24px;
     text-align: left;
@@ -154,9 +152,7 @@ h6 {
 .visually-hiden {
     display: none;
 }
-.help-logo {
-    padding-top: 30px;
-}
+
 
 .f {
     font-size: 35px;
@@ -165,21 +161,13 @@ h6 {
     font-size: 35px;
 }
 .main-hiden{
-    margin: 0;
     padding-top: 25px;
     padding-bottom: 25px;
     text-align: center;
+    margin: 0;
 }
-.main-gallery {
-    margin-bottom: 47px;
+.gallery {
+    margin: 0;
     padding: 0;
-}
-article {
-    width: 280px;
-}
-.lorum {
-    float: left;
-}
-.ipsum {
-    float: right;
+
 }
