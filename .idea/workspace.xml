@@ -4,7 +4,6 @@
     <list default="true" id="ff30dc91-060a-48b0-970c-b140deb0e8d2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,14 +76,7 @@
       <workItem from="1576698362706" duration="1720000" />
       <workItem from="1577836735182" duration="4218000" />
       <workItem from="1579204486806" duration="279000" />
-      <workItem from="1579715516124" duration="2328000" />
-    </task>
-    <task id="LOCAL-00156" summary="ул">
-      <created>1576093992630</created>
-      <option name="number" value="00156" />
-      <option name="presentableId" value="LOCAL-00156" />
-      <option name="project" value="LOCAL" />
-      <updated>1576093992630</updated>
+      <workItem from="1579715516124" duration="2976000" />
     </task>
     <task id="LOCAL-00157" summary="ул">
       <created>1576094085971</created>
@@ -422,7 +414,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579717504144</updated>
     </task>
-    <option name="localTasksCounter" value="205" />
+    <task id="LOCAL-00205" summary="after galery">
+      <created>1579718096664</created>
+      <option name="number" value="00205" />
+      <option name="presentableId" value="LOCAL-00205" />
+      <option name="project" value="LOCAL" />
+      <updated>1579718096664</updated>
+    </task>
+    <option name="localTasksCounter" value="206" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -466,6 +465,7 @@
     <MESSAGE value="alery" />
     <MESSAGE value="aaaaaaaaaaaaaaaaaaa" />
     <MESSAGE value="galery" />
-    <option name="LAST_COMMIT_MESSAGE" value="galery" />
+    <MESSAGE value="after galery" />
+    <option name="LAST_COMMIT_MESSAGE" value="after galery" />
   </component>
 </project>

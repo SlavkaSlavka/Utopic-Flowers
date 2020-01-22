@@ -172,4 +172,10 @@ h6 {
 }
 .choise {
     display: flex;
+    justify-content: space-around;
+}
+.choise-product-1,
+.choise-product-2,
+.choise-product-3 {
+    width: 280px;
 }
