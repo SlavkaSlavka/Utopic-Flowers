@@ -77,14 +77,7 @@
       <workItem from="1576698362706" duration="1720000" />
       <workItem from="1577836735182" duration="4218000" />
       <workItem from="1579204486806" duration="279000" />
-      <workItem from="1579715516124" duration="1813000" />
-    </task>
-    <task id="LOCAL-00155" summary="ул">
-      <created>1576093977355</created>
-      <option name="number" value="00155" />
-      <option name="presentableId" value="LOCAL-00155" />
-      <option name="project" value="LOCAL" />
-      <updated>1576093977355</updated>
+      <workItem from="1579715516124" duration="2328000" />
     </task>
     <task id="LOCAL-00156" summary="ул">
       <created>1576093992630</created>
@@ -422,7 +415,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579201028451</updated>
     </task>
-    <option name="localTasksCounter" value="204" />
+    <task id="LOCAL-00204" summary="galery">
+      <created>1579717504142</created>
+      <option name="number" value="00204" />
+      <option name="presentableId" value="LOCAL-00204" />
+      <option name="project" value="LOCAL" />
+      <updated>1579717504144</updated>
+    </task>
+    <option name="localTasksCounter" value="205" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -465,6 +465,7 @@
     <MESSAGE value="ул" />
     <MESSAGE value="alery" />
     <MESSAGE value="aaaaaaaaaaaaaaaaaaa" />
-    <option name="LAST_COMMIT_MESSAGE" value="aaaaaaaaaaaaaaaaaaa" />
+    <MESSAGE value="galery" />
+    <option name="LAST_COMMIT_MESSAGE" value="galery" />
   </component>
 </project>

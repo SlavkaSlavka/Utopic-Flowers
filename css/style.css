@@ -169,5 +169,7 @@ h6 {
 .gallery {
     margin: 0;
     padding: 0;
-
+}
+.choise {
+    display: flex;
 }
