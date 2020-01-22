@@ -194,3 +194,6 @@ h3 {
 .helper {
     margin-right: 25px;
 }
+.photo {
+    display: flex;
+}
