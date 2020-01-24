@@ -248,3 +248,8 @@ footer li {
 h5 {
     margin-bottom: 30px;
 }
+.under {
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
