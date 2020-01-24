@@ -31,12 +31,17 @@
 <h2 class="main-hiden"><i>“ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non diam<br>
     erat. In fringilla massa ut nisi ullamcorper pellentesque „</i></h2>
     <section class="main-gallery">
+        <div class="gallery-wrapper">
 <figure class="gallery">
     <img class="main-photo" src="img/p.jpg" width="960" height="380" alt="lorem ipsum">
     <figcaption>Slide 1 Caption Dapiensociis temper donec auctortortis cumsan et curabitur condis lorem loborttis leo. Ipsumcommodo libero nunc at in velis.</figcaption>
-  </figure>
+        </figure>
+        </div>
+
+
         <button class="button-gallery back">back</button>
         <button class="button-gallery next">next</button>
+
     </section>
 <section class="choise">
     <div class="choise-product-1">
@@ -72,15 +77,18 @@
 </section>
      <section class="photo">
         <article class="lorum">
-        <figure class="ipsum-gallery">
+            <div class="for-background">
+            <figure class="ipsum-gallery">
             <a href="1"><img src="img/Imag.jpg" height="180"> </a>
         </figure>
         <a href="/">
         <h4>Lorum ipsum dolor</h4>
         </a>
         <p class="last-p">Orciintendum condimenterdum nullamcorper elit nam curabitur laoreet met praesenean et iaculum.</p>
+            </div>
         </article>
     <article class="ipsum">
+        <div class="for-background">
         <figure class="ipsum-gallery">
             <a href="2"><img src="img/Imag.jpg" height="180"> </a>
         </figure>
@@ -88,8 +96,10 @@
             <h4>Lorum ipsum dolor</h4>
         </a>
         <p  class="last-p">Orciintendum condimenterdum nullamcorper elit nam curabitur laoreet met praesenean et iaculum.</p>
+        </div>
     </article>
     <article class="dolor">
+        <div class="for-background">
         <figure class="ipsum-gallery">
             <a href="3"><img src="img/Imag.jpg" height="180"alt="one"> </a>
         </figure>
@@ -97,10 +107,12 @@
             <h4>Lorum ipsum dolor</h4>
         </a>
         <p  class="last-p">Orciintendum condimenterdum nullamcorper elit nam curabitur laoreet met praesenean et iaculum.</p>
+        </div>
     </article>
     </section>
 </main>
 <footer class="main-footer">
+    <div class="footer-wrapper">
     <ul class="contacts">
         <h5>Contact Details</h5>
         <p>Convallisijusto vestas mus pellentum aenean sapibulum in aliquam volut pat integest nulla</p>
@@ -110,13 +122,13 @@
         </li>
     </ul>
     <ul class="links">
-        <h5> Quick links</h5>
-        <li>Link Text Here</li>
-        <li>Link Text Here</li>
-        <li>Link Text Here</li>
-        <li>Link Text Here</li>
+        <h5 class="links-name"> Quick links</h5>
+        <li class="link-text">Link Text Here</li>
+        <li class="link-text">Link Text Here</li>
+        <li class="link-text">Link Text Here</li>
+        <li class="link-text">Link Text Here</li>
     </ul>
-    <div>
+    <div class="blog">
 <h5>From the blog</h5>
         <h6>Blog post title</h6>
   <p>Posted by Admin on 00.00.0000 <br>
@@ -124,11 +136,12 @@
       <a href="readmore">Read more</a>
   </p>
     </div>
-    <form action="send.php" method="post"> <h5>Grab our nevsletter</h5>
+    <form class="send" action="send.php" method="post"> <h5>Grab our nevsletter</h5>
         <input type="text" name="name" placeholder="Name" required>
         <input type="text" name="email" placeholder="Email" required>
         <input type="submit" value="Submit">
     </form>
+    </div>
     <div class="under">
     <p>Copyright © 2013 - All Rights Reserved - Domain Name</p>
     <p>Template by OS Templates</p>
